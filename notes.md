@@ -4,7 +4,7 @@ This file exists so the agent has something small and safe to edit.
 
 ## Current notes
 
-The demo repository is empty on purpose. It has no build, no tests and no dependencies, so a request produces a reviewable diff in seconds rather than a long setup.
+The demo repository is empty on purpose. It has no build, no tests and no dependencies, so a request produces a reviewable diff in seconds rather than after a long setup.
 
 ## Questions this repository answers
 
